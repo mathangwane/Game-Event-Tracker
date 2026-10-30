@@ -1,0 +1,6 @@
+{
+  "name": "Game Event Tracker",
+  "description": "Native Android & Jetpack Compose Game Event Tracker for Torn and Farm RPG with Material 3 dark theme, calendar display, and offline persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

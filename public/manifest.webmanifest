@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Game Event Tracker",
+  "short_name": "Game Events",
+  "description": "Android Jetpack Compose Game Event Tracker for Torn and Farm RPG with Material 3 dark theme and calendar persistence.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
